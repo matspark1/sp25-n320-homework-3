@@ -132,3 +132,11 @@ button:hover {
   cursor: pointer;
   color: var(--white);
 }
+
+img {
+  height: 400px;
+}
+
+body.primary {
+  background-color: #6c72de;
+}
